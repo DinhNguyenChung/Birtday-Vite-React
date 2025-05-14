@@ -40,7 +40,7 @@ const App = () => {
                     }}
                     >
 
-      {/* Luôn render confetti */}
+     
       <Confetti className="pointer-events-none" />
 
       {/* Khi showFireworks = true, chỉ render Fireworks */}
